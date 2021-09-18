@@ -1,3 +1,3 @@
 ## Homepage Screenshot
 
-## ![page](ScreenShots/page.png)
+## ![page](page.png)
