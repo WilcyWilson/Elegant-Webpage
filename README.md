@@ -1,3 +1,3 @@
-## Homepage Screenshot
+## Demo
 
-## ![page](page.png)
+## ![page](page.gif)
